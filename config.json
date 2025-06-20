@@ -1,0 +1,21 @@
+{
+    "supported_extensions": [
+        ".cr2",
+        ".cr3",
+        ".arw",
+        ".dng",
+        ".jpg",
+        ".jpeg",
+        ".heif",
+        ".mp4",
+        ".mov",
+        ".mts",
+        ".mxf",
+        ".avi",
+        ".xavc",
+        ".wav",
+        ".mp3",
+        ".png"
+    ],
+    "nextcloud_path": "D:/Working/Project/Media Ingest App with Cloud Integration/Nextcloud"
+}
